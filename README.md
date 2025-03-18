@@ -12,7 +12,7 @@ A lightweight CRM system built using Laravel.
 ## Installation
 
 ```bash
-git clone https://github.com/yourusername/Laravel-EasyCRM.git
+git clone https://github.com/Jarri-24-7/Laravel-EasyCRM.git
 cd Laravel-EasyCRM
 composer install
 cp .env.example .env
